@@ -1,6 +1,8 @@
 # wordpair_generator
 
-A new Flutter project.
+- A new Flutter Exercise project. This is program creaates random english word pairs 
+enough to cover the current window. As the user scroll down, generates new words. The
+user can tick his/her favorite words and can see them later in the favorite words section.
 
 ## Getting Started
 
